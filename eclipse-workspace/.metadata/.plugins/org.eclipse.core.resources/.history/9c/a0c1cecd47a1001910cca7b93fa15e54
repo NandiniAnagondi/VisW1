@@ -1,0 +1,13 @@
+package com.visa.prj.client;
+
+import com.visa.prj.entity.account;
+
+public class AccountClient {
+
+	public static void main(String[] args) {
+		account first=new account();
+		
+
+	}
+
+}

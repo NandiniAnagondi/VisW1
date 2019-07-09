@@ -1,0 +1,34 @@
+package com.visa.prj.entity;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class Timetest {
+
+	@Test
+	public void testTime() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGethrs() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetmins() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testAddtime() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testAddtim() {
+		fail("Not yet implemented");
+	}
+
+}

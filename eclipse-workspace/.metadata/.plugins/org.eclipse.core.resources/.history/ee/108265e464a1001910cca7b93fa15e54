@@ -1,0 +1,14 @@
+package com.visa.prj.entity;
+
+public class Time {
+	private int hrs;
+	private int mins;
+	
+	public void Time(int a, int b){
+		hrs=a;
+		mins=b;
+	}
+	
+	public void addtime
+
+}

@@ -1,0 +1,31 @@
+package com.visa.prj.entity;
+/**
+ * This is an entity class to represent account business data
+ * @author root
+ *
+ */
+
+public class account {
+	private double balance;
+	/**
+	 * method to credit amount
+	 * @param amt amount to be credited
+	 */
+	public void credit(double amt) {
+		balance+=amt;
+	}
+	/**
+	 * method to debit amount
+	 * @param amt amount to be debited
+	 */
+	public void debit(double amt) {
+		balance-=amt;
+	}
+	/**
+	 * gives the status of current balance
+	 * @return current balance
+	 */
+	public double getbalance() {
+		return balance;
+	}
+}

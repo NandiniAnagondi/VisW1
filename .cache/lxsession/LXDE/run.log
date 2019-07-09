@@ -1,0 +1,1581 @@
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+SSH_AUTH_SOCK=/tmp/ssh-P6fPrLdxZ2OS/agent.18497; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=18502; export SSH_AGENT_PID;
+echo Agent pid 18502;
+** Message: 15:17:00.481: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: 15:17:00.487: x-terminal-emulator has very limited support, consider choose another terminal
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+xscreensaver: 15:17:00: locking is disabled (running as nobody).
+xscreensaver: 15:17:00: locking only works when xscreensaver is launched
+	 by a normal, non-privileged user (e.g., not "root".)
+	 See the manual for details.
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+dbus-daemon[18516]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=0 pid=18520 comm="nm-applet " label="unconfined")
+
+** (light-locker:18537): ERROR **: 15:17:00.649: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+** (lxpanel:18493): WARNING **: 15:17:00.682: lxpanel: can't load volume plugin
+dbus-daemon[18516]: Successfully activated service 'org.a11y.atspi.Registry'
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+
+(lxpanel:18493): Wnck-WARNING **: 15:17:00.756: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(nm-applet:18520): Gtk-WARNING **: 15:17:00.799: Can't set a parent on widget which has a parent
+
+(nm-applet:18520): Gdk-CRITICAL **: 15:17:00.935: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+/opt/eclipse/eclipse
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /root/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.12.0.20190529-1916.xml
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [bundleresource://942.fwk925955862:1/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [bundleresource://942.fwk925955862:2/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+org.eclipse.m2e.logback.configuration: Initializing logback
+
+(lxpanel:18493): Wnck-WARNING **: 03:35:31.684: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 03:35:32.546: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 03:35:38.115: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.675: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.677: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.679: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.700: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.716: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.732: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.749: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.765: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.783: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.799: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.815: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.832: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.850: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.866: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.882: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.899: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.916: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.932: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:35:46.949: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.454: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.456: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.462: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.482: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.498: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.514: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.533: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.547: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.565: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.590: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.597: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.614: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.636: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.648: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.664: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.680: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.697: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.715: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:11.731: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.719: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.723: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.725: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.726: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.747: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.763: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.779: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.796: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.812: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.829: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.846: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.863: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.880: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.895: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.912: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.930: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.946: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.962: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.979: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:14.995: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:15.013: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.569: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.572: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.573: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.574: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.595: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.612: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.628: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.645: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.662: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.678: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.695: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.713: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.728: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.746: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.762: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.778: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.795: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.812: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.828: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:18.846: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.033: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.034: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.035: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.055: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.072: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.088: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.104: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.121: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.138: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.154: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.172: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.188: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.204: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.222: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.238: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.254: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.271: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.288: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.305: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:40.321: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.555: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.556: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.565: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.583: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.599: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.615: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.633: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.650: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.664: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.681: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.698: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.717: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.731: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.780: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.800: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.816: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.831: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.847: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 03:36:41.863: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(lxpanel:18493): Wnck-WARNING **: 04:39:17.917: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:40:49.887: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:42:49.015: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:43:05.881: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:45:02.446: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:45:10.570: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:46:04.840: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:46:10.011: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:46:21.248: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:47:06.553: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:47:31.390: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:48:47.192: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:50:25.472: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.522: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.524: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.528: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.547: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.563: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.581: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.598: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.614: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.633: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.648: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.663: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.680: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.697: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.715: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.731: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.749: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.764: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.780: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:20.797: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.444: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.446: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.466: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.482: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.498: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.515: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.533: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.549: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.565: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.582: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.599: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.615: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.632: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.649: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.666: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.681: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.698: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:25.715: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 04:58:27.664: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(lxpanel:18493): Wnck-WARNING **: 04:59:11.110: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 04:59:15.407: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 05:00:02.060: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 05:00:19.923: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 05:01:10.060: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 05:02:26.862: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.037: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.039: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.040: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.059: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.075: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.093: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.110: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.126: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.142: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.159: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.176: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.193: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.209: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.226: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.241: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.259: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.275: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.292: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.309: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:09.325: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.390: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.392: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.393: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.398: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.420: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.434: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.451: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.469: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.487: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.503: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.516: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.534: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.550: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.567: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.586: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.602: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.616: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.633: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.651: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.666: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:21.684: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.009: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.012: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.012: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.017: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.044: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.053: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.072: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.086: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.103: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.120: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.141: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.161: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.169: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.188: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.204: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.219: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.236: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.252: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.273: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.286: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:23.305: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.086: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.087: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.110: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.129: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.144: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.161: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.178: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.195: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.211: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.228: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.244: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.266: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.278: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.295: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.312: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.330: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.345: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.360: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.380: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:12:24.580: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:13:14.641: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:13:14.645: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.234: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.236: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.242: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.254: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.272: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.287: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.304: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.321: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.338: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.354: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.371: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.388: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.406: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.422: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.438: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.456: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.471: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.487: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.504: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:48.520: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.774: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.777: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.778: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.779: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.799: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.817: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.833: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.848: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.865: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.882: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.899: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.914: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.933: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.949: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.967: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.982: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:56.999: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:57.014: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:57.032: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:57.048: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:57.066: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.270: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.271: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.280: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.298: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.316: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.330: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.347: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.364: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.382: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.397: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.414: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.431: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.447: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.465: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.481: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.498: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.514: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.531: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.547: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:42:58.600: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.210: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.212: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.219: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.240: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.256: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.275: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.289: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.305: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.322: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.340: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.356: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.372: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.389: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.406: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.422: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.440: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.456: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:38.472: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.589: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.592: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.610: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.628: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.644: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.661: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.678: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.695: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.711: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.728: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.744: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.761: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.777: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.794: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.811: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.828: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.845: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:39.861: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.441: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.444: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.445: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.447: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.467: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.483: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.500: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.517: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.534: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.550: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.566: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.583: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.599: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.617: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.634: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.650: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.667: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.684: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.699: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:43.716: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.846: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.847: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.847: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.848: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.857: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.871: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.892: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.904: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.922: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.939: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.955: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.972: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:44.989: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.006: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.025: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.038: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.055: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.071: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.089: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.105: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.121: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.138: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 05:57:45.432: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(lxpanel:18493): Wnck-WARNING **: 06:11:33.200: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 06:11:47.851: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 06:13:59.108: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 06:15:01.598: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 06:15:11.691: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.380: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.382: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.386: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.412: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.426: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.440: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.457: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.472: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.490: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.508: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.523: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.540: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.555: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.573: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.590: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.606: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.622: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.640: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:08.656: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.473: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.474: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.480: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.498: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.514: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.531: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.572: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.589: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.606: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.622: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.639: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.655: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.672: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.690: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.706: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.723: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.739: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.756: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:31.772: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.464: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.465: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.468: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.484: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.500: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.516: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.534: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.550: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.566: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.612: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.628: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.646: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.662: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.678: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.696: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.713: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.729: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.745: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:50.762: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.529: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.531: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.533: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.539: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.555: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.574: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.589: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.607: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.625: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.640: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.656: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.673: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.692: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.707: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.724: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.739: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.758: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.772: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.789: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.807: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:53.827: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.859: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.860: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.871: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.887: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.901: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.918: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.935: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.951: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.968: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:54.985: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:55.002: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:55.019: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:55.035: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:55.052: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:55.068: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:55.085: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:55.118: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:55.137: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:21:55.152: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:23.947: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:23.949: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:23.950: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:23.951: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:23.954: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:23.980: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:23.990: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.008: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.025: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.041: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.057: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.075: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.090: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.109: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.125: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.143: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.158: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.174: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.191: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.207: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.224: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:22:24.240: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.887: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.890: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.891: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.893: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.913: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.929: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.946: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.963: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.980: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:54.996: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:55.012: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:55.031: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:55.046: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:55.063: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:55.081: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:55.098: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:55.113: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:55.130: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:23:55.145: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.408: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.411: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.414: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.435: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.445: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.462: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.479: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.496: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.512: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.530: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.547: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.562: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.579: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.596: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.614: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.630: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.646: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.662: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:31.679: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.212: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.215: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.234: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.250: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.266: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.283: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.299: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.316: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.333: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.349: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.367: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.383: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.399: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.416: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.433: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.450: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.467: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:33.483: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 06:25:35.208: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(lxpanel:18493): Wnck-WARNING **: 08:09:18.280: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:10:12.368: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:13:55.455: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:14:09.201: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:14:59.593: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:15:00.977: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:15:19.024: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:15:31.620: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:16:09.202: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:16:22.301: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:18:49.027: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:23:07.582: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:29:13.017: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:41.983: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:41.985: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:41.987: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.006: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.021: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.039: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.055: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.072: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.090: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.106: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.122: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.139: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.156: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.172: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.189: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.205: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.222: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.241: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:42.256: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:48.972: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:48.974: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:48.975: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:48.977: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:48.997: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.014: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.029: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.046: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.063: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.079: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.095: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.113: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.130: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.146: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.163: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.180: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.195: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.213: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.230: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.246: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:49.262: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.464: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.468: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.469: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.473: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.497: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.509: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.525: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.542: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.561: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.576: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.592: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.609: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.626: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.643: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.659: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.676: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.693: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.709: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:29:56.726: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.501: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.503: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.503: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.507: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.526: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.543: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.559: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.576: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.595: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.612: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.627: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.643: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.661: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.678: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.694: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.710: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.726: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.746: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.762: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.777: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:05.794: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.791: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.793: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.795: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.801: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.823: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.835: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.852: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.868: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.885: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.901: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.918: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.937: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.953: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.970: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:11.985: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:12.005: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:12.018: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:12.035: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:12.052: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:12.067: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:12.086: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.373: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.376: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.377: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.382: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.402: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.418: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.434: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.452: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.468: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.484: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.501: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.519: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.534: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.552: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.568: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.585: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.601: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.617: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.635: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:18.650: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 08:30:19.511: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(lxpanel:18493): Wnck-WARNING **: 08:38:20.193: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:38:58.319: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:41:00.418: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:41:15.610: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:41:19.379: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:41:28.785: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:42:16.049: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:49:16.932: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:51:01.098: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:59:53.013: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 08:59:56.873: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 09:02:04.892: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 09:02:15.849: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 09:34:10.590: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 09:37:01.285: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 09:37:20.241: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(Eclipse:28800): Gtk-CRITICAL **: 09:44:38.886: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Eclipse:28800): Gtk-CRITICAL **: 09:44:38.887: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(lxpanel:18493): Wnck-WARNING **: 09:46:58.914: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 09:48:18.769: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:35:25.038: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:35:27.798: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:35:31.753: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:35:35.989: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:35:45.732: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:35:59.184: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:36:05.331: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:36:08.204: Unhandled action type _OB_WM_ACTION_UNDECORATE
+chromium-browser --temp-profile --no-sandbox
+[5686:5686:0709/104250.172264:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[5666:5784:0709/104250.292390:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+
+(lxpanel:18493): Wnck-WARNING **: 10:42:50.462: Unhandled action type _OB_WM_ACTION_UNDECORATE
+[5666:5666:0709/104339.230698:ERROR:gaia_auth_fetcher.cc(72)] Missing ID token on refresh token fetch response.
+[5666:5681:0709/104427.557572:ERROR:database.cc(1601)] Passwords sqlite error 2067, errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm, sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, preferred, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, date_synced, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+env SHELL=/bin/bash gnome-terminal --working-directory /root
+
+(lxpanel:18493): Wnck-WARNING **: 10:54:20.143: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:54:20.287: Unhandled action type _OB_WM_ACTION_UNDECORATE
+/opt/eclipse/eclipse
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+
+(lxpanel:18493): Wnck-WARNING **: 10:57:34.133: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 10:57:39.060: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+** (lxpanel:18493): WARNING **: 10:57:41.524: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:18493): WARNING **: 10:57:41.525: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:18493): WARNING **: 10:57:41.525: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:18493): WARNING **: 10:57:41.525: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:18493): WARNING **: 10:57:41.525: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:18493): Gdk-CRITICAL **: 10:57:41.525: IA__gdk_window_get_screen: assertion 'GDK_IS_WINDOW (window)' failed
+
+(lxpanel:18493): Gdk-CRITICAL **: 10:57:41.525: IA__gdk_screen_get_monitor_at_window: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(lxpanel:18493): GLib-GObject-CRITICAL **: 10:57:41.525: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (lxpanel:18493): WARNING **: 10:57:41.525: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:18493): WARNING **: 10:57:41.525: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:18493): WARNING **: 10:57:41.525: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:18493): WARNING **: 10:57:41.525: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:18493): WARNING **: 10:57:41.530: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:18493): GLib-CRITICAL **: 10:57:41.531: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+env SHELL=/bin/bash gnome-terminal --working-directory /root
+
+(lxpanel:18493): Wnck-WARNING **: 11:03:57.793: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 11:03:57.973: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:18493): Wnck-WARNING **: 11:04:13.887: Unhandled action type _OB_WM_ACTION_UNDECORATE

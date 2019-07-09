@@ -1,0 +1,25 @@
+package com.visa.prj.util;
+
+public class Arrayutil {
+	/**
+	 * 
+	 * @param data
+	 * @return
+	 */
+
+	public static int getsum(int[] data) {
+		return 0;
+	}
+	public static void sort(int[] elems) {
+		
+	}
+	/**
+	 * 
+	 * @param elems
+	 * @param no
+	 * @return
+	 */
+	public static int getcount(int[] elems, int no) {
+		return no;
+	}
+}

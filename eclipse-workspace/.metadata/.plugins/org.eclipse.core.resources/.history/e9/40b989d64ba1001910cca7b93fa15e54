@@ -1,0 +1,20 @@
+package com.visa.prj.client;
+
+import com.visa.prj.entity.account;
+
+public class AccountClient {
+
+	public static void main(String[] args) {
+		account first = new account();
+		account second = new account();
+
+		first.credit(500);
+		second.credit(20);
+		System.out.println("first account");
+		System.out.println("balance: " + first.getbalance());
+		System.out.println("second account");
+		System.out.println("balance: " + second.getbalance());
+
+	}
+
+}

@@ -1,0 +1,51 @@
+package com.visa.prj.entity;
+/**
+ * This is an entity class to represent account business data
+ * @author root
+ *
+ */
+
+public class account {
+	private double balance;
+	private String accno;
+	private static int count; //state of class
+	/**
+	 * 
+	 * @param no is the account number
+	 */
+	public account(String no) {
+		count++;
+		this.accno=no;
+	}
+	/**
+	 * method to credit amount
+	 * @param amt amount to be credited
+	 */
+	public void credit(double amt) { //credit(account this, double amt)
+									// this.balance+=amt;
+		this.balance+=amt;
+	}
+	/**
+	 * method to debit amount
+	 * @param amt amount to be debited
+	 */
+	public void debit(double amt) {
+		this.balance-=amt;
+	}
+	@Override
+	public boolean equals(Object obj) {
+		account other=(account) obj;
+		return this.accno.equals(other.accno);
+			
+	}
+	/**
+	 * gives the status of current balance
+	 * @return current balance
+	 */
+	public double getbalance() {
+		return this.balance;
+	}
+	public int getcount() {
+		return count;
+	}
+}

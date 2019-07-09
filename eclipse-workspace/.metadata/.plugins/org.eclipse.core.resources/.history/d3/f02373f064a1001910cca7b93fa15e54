@@ -1,0 +1,26 @@
+package com.visa.prj.entity;
+
+public class Time {
+	private int hrs;
+	private int mins;
+	
+	public Time(int a, int b){
+		hrs=a;
+		mins=b;
+	}
+	
+	public Time addtime(Time t1, Time t2) {
+		Time t3=new Time(0,0);
+		t3.mins=t1.mins+t2.mins
+        if(t3.mins>=60) {
+        	t3.mins-=60;
+        	t3.hrs++;
+        }
+		t3.hrs=t1.hrs+t2.hrs;
+		if(t3.hrs>=24) {
+			t3.hrs-=24;
+		}
+      return t3;
+	}
+
+}

@@ -1,0 +1,33 @@
+package com.visa.prj.client;
+
+import com.visa.prj.entity.account;
+
+public class AccountClient {
+
+	public static void main(String[] args) {
+		account first = new account("23");
+		account second = new account("s23");
+
+		first.credit(500); // credit(first,500);
+		second.credit(20);
+		
+		System.out.println("first account");
+		System.out.println("balance: " + first.getbalance());
+		System.out.println("second account");
+		System.out.println("balance: " + second.getbalance());
+		
+		account rahul = new account("123");
+		account swetha = new account("123");
+		
+		account ref=rahul;
+		
+		if(ref==rahul) {
+			System.out.println("they point to same location");
+		}
+		if(ref.equals(swetha)) {
+			System.out.println("same content");
+		}
+		System.out.println("Count: " + account.getcount());
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.visa.prj.dao;
+
+public class MobiledaoFactory {
+
+	public static Mobiledao getMobiledao() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

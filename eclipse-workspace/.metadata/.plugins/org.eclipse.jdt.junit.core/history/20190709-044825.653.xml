@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Arrayutiltest" project="oop" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.visa.prj.util.Arrayutiltest" time="0.01">
+    <testcase name="testGetcount" classname="com.visa.prj.util.Arrayutiltest" time="0.001"/>
+    <testcase name="testSort" classname="com.visa.prj.util.Arrayutiltest" time="0.0"/>
+    <testcase name="testconvert" classname="com.visa.prj.util.Arrayutiltest" time="0.0"/>
+    <testcase name="testGetsum" classname="com.visa.prj.util.Arrayutiltest" time="0.0"/>
+  </testsuite>
+</testrun>

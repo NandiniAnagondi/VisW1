@@ -1,0 +1,15 @@
+package com.visa.prj.client;
+
+import com.visa.prj.util.Arrayutil;
+
+public class SortClient {
+	
+	public static void main(String[] args) {
+		String[] names= {"calvin","george","nandini","yuva","nikhil"};
+		Arrayutil.sort(names);
+		
+	   for (String string : names) {
+		System.out.println(string);
+	}
+  }
+}

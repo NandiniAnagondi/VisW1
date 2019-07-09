@@ -1,0 +1,5 @@
+ackage com.visa.prj.dao;
+
+public interface MobiledaoDbimpl extends Mobiledao {
+
+}
