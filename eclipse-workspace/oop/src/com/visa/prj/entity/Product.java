@@ -1,5 +1,8 @@
 package com.visa.prj.entity;
 
+
+
+
 public abstract class Product implements Comparable<Product>{
 	
 	private int id;
@@ -14,12 +17,14 @@ public abstract class Product implements Comparable<Product>{
 		this.name = name;
 		this.price = price;
 	}
+	
 	public int getId() {
 		return id;
 	}
 	public void setId(int id) {
 		this.id = id;
 	}
+	
 	public String getName() {
 		return name;
 	}
@@ -37,7 +42,7 @@ public abstract class Product implements Comparable<Product>{
 	@Override
 	public int compareTo(Product o) {
 		// TODO Auto-generated method stub
-		return Double
+		return (int) ( this.price-o.price);
 	}
 	@Override
 	public String toString() {
